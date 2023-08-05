@@ -14,3 +14,13 @@ this shd work let's see
 
 result :
 um a new branch was made cause i pushed from new branch lol
+
+
+and to save this changes to master
+git checkout master
+
+git merge name_you_want_merge
+
+again git status
+git add .
+git commit -m "some new commit"
