@@ -1,0 +1,13 @@
+i cloned it to my vs
+and then i simply did git status
+
+git branch -l
+to create a new branch i did git checkout -b name
+and them i created this text file and will push it
+
+git add . will add everything
+git commit -m "some new commit"
+
+git push 
+
+this shd work let's see
