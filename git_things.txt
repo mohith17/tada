@@ -10,4 +10,7 @@ git commit -m "some new commit"
 
 git push 
 
-this shd work let's see
+this shd work let's see 
+
+result :
+um a new branch was made cause i pushed from new branch lol
